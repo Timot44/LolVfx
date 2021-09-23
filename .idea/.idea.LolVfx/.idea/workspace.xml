@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddfc065b-59b3-43eb-8d17-fa1ab2c9d55f" name="Default Changelist" comment="" />
+    <list default="true" id="ddfc065b-59b3-43eb-8d17-fa1ab2c9d55f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LolVfx/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GarenVfx.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GarenVfx.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GarenESpell.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GarenESpell.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GarenESpell.cs" root0="FORCE_HIGHLIGHTING" />
@@ -27,6 +36,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -63,6 +73,7 @@
       <workItem from="1631997118669" duration="980000" />
       <workItem from="1632145108718" duration="565000" />
       <workItem from="1632159986755" duration="875000" />
+      <workItem from="1632426619420" duration="221000" />
     </task>
     <servers />
   </component>

@@ -43,6 +43,7 @@ public class GarenESpell : MonoBehaviour
             GarenEAbility();
             foreach (var vfx in eSpellVfx)
             {
+              
                 vfx.Play();
             }
         }
@@ -52,6 +53,7 @@ public class GarenESpell : MonoBehaviour
             foreach (var vfx in eSpellVfx)
             {
                 vfx.Stop();
+                
             }
 
             isActived = false;
